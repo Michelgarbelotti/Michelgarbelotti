@@ -1,7 +1,8 @@
 ### Olá! Sou o Michel Garbelotti ###
 
-Hoje estou trabalhando com Manutenção elétrica. Porém, estou buscando mudar de área.<br />
-Estudando: HTML / CSS / JAVASCRIPT / REACT / JAVA.<br />
+<br>Há 11 anos trabalhei com manutenção em uma das empresas de referência em mobilidade urbana no Rio de janeiro. Comecei na empresa como jovem aprendiz, enfrentando diversos desafios para manter a excelência operacional.
+
+Atuamente estou graduando análise e desenvolvimento de sistemas. Estou buscando uma vaga como estagiário/DEVfront-end.JR  para colocar em práticas meus estudos e projeto.Estudo atualmente javascript, React, Angular, MySQL, NodeJs, PHP.<br />
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
